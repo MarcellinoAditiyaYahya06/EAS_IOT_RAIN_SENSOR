@@ -3,10 +3,10 @@ Berikut rangkaian Proteus menggunakan sensor Rain Sensor
 ![image](https://github.com/MarcellinoAditiyaYahya06/EAS_IOT_RAIN_SENSOR/assets/172895496/bde0277f-830e-4e64-a021-90256fdf7901)
 
 Komponen yang digunakan yaitu:
-•	Arduino Uno
-•	ENC28J60-Ethernet
-•	Logicstate
-•	Rain Sensor
+- Arduino Uno
+- ENC28J60-Ethernet
+- Logicstate
+- Rain Sensor
 
 Berikut adalah Sourcode Arduino:
 
