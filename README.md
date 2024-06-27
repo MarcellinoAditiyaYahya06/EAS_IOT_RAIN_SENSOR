@@ -47,7 +47,8 @@ void loop() {
   // Buffer untuk respon HTML
   char htmlResponse[250];
   // Membuat respon HTML dengan status hujan
-  sprintf(htmlResponse, "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n"
+  sprintf(htmlResponse, 
+  "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\nConnection: close\r\n\r\n"
                         "<html>\r\n"
                         "<head>\r\n"
                         "<meta http-equiv='refresh' content='3'>\r\n"
